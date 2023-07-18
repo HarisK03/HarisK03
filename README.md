@@ -2,6 +2,8 @@
 
 👨‍💻 All of my projects are available at [https://github.com/HarisK03](https://github.com/HarisK03)
 
+🌐 Check out my website at https://harisk03.github.io/portfolio/
+
 📫 Reach me at **hariskamal03@gmail.com**
 
 ### 🚀 Languages I've Used: 
